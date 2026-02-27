@@ -1,0 +1,536 @@
+,Night Thorn/Dried Flower Reset: 5 AM,,,,,,,,,,,,,
+Task,Task Type,Realm,Reward Type,Complete,Rank 1,Rank 1 - Reward,Rank 2,Rank 2 - Reward,Rank 3,Rank 3 - Reward,Rank 4,Rank 4 - Reward,Rank 5,Rank 5 - Reward
+Cook 1-Star Meals or Better,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,15,100,45,200,80,300,180,500
+Cook 2-Star Meals or Better,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,15,100,45,200,80,300,180,500
+Cook 3-Star Meals or Better,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,15,100,45,200,80,300,180,500
+Cook 4-Star Meals or Better,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,15,100,45,200,80,300,180,500
+Cook 5-Star Meals,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,15,100,45,200,80,300,180,500
+Cook Fish-Based Meals,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook Fruit-Based Meals,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook Grain-Based Meals,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook Meals,Food,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,225,200,400,300,900,500
+Cook Seafood-Based Meals,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook Vegetable-Based Meals,Food,Base Game,Dreamlight,☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook With Spices,Food,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Sell Meals,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,25,100,75,200,130,300,300,500
+Catch Different Types of Fish,Food,Base Game,Dreamlight,☆☆☆,2,100,10,200,20,300,,,,
+Catch Fish,Food,Base Game,Dreamlight,☆☆☆☆☆,10,50,140,100,450,200,800,300,"1,800",500
+Catch Fish from Dazzle Beach,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Forest of Valor,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Forgotten Lands,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Frosted Heights,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Glade of Trust,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Peaceful Meadow,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Sunlit Plateau,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Seafood,Food,Base Game,Dreamlight,☆☆☆☆☆,2,50,20,100,60,200,110,300,600,500
+Catch Without Failing,Food,Base Game,Dreamlight,☆☆☆,3,100,50,200,100,300,,,,
+Gather Bonus Fish given by a Companion,Food,Base Game,Dreamlight,☆☆☆☆☆,3,50,25,100,100,200,200,300,400,500
+Sell Fish,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,45,100,150,200,270,300,600,500
+Buy Seeds from Dazzle Beach,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds from the Forest of Valor,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds from the Forgotten Lands,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds from the Frosted Heights,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds from the Glade of Trust,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds from the Peaceful Meadow,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds from the Sunlit Plateau,Food,Base Game,Dreamlight,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Gather Bonus Vegetables given by a Companion,Food,Base Game,Dreamlight,☆☆☆☆☆,3,50,25,100,100,200,200,300,400,500
+Harvest Different Vegetables,Food,Base Game,Dreamlight,☆☆☆,5,100,10,300,16,500,,,,
+Harvest Vegetables,Food,Base Game,Dreamlight,☆☆☆☆☆,25,50,400,100,"1,100",200,"2,000",300,"4,500",500
+Plant Vegetables,Food,Base Game,Dreamlight,☆☆☆☆☆,25,50,400,100,"1,100",200,"2,000",300,"4,500",500
+Sell Vegetables,Food,Base Game,Dreamlight,☆☆☆☆☆,10,50,120,100,380,200,670,300,"1,500",500
+Water Dried Vegetables,Food,Base Game,Dreamlight,☆☆☆☆☆,50,50,600,100,"1,900",200,"3,400",300,"7,700",500
+Feed Crocodiles Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed Foxes Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed Rabbits Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed Raccoons Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed Ravens Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed Sea Turtles Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed Squirrels Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed Sunbirds Their Favorite Food,Foraging,Base Game,Dreamlight,☆☆☆,1,100,3,200,10,500,,,,
+Feed the Crocodiles,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Foxes,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Rabbits,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Raccoons,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Ravens,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Sea Turtles,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Squirrels,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Sunbirds,Foraging,Base Game,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Gather Bonous Fruit given by a Companion,Foraging,Base Game,Dreamlight,☆☆☆☆☆,3,50,25,100,100,200,200,300,400,500
+Gather Bonus Flowers given by a Companion,Foraging,Base Game,Dreamlight,☆☆☆☆☆,3,50,25,100,100,200,200,300,400,500
+Harvest Apples,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Bananas,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Basil,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Blueberries,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Cherries,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Cocoa,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Coconuts,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Differrent Fruits,Foraging,Base Game,Dreamlight,☆☆☆,3,100,6,300,9,500,,,,
+Harvest Dreamlight Fruit,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Garlic,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Ginger,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Gooseberries,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Lemons,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Mint,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Mushrooms,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Oregano,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Raspberries,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Vanilla,Foraging,Base Game,Dreamlight,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Remove Small Night Thorns,Foraging,Base Game,Dreamlight,☆☆☆☆☆,20,50,230,100,750,200,"1,300",300,"3,000",500
+Sell Fruit,Foraging,Base Game,Dreamlight,☆☆☆☆☆,20,50,230,100,750,200,"1,300",300,"3,000",500
+Embrace the Blues,Friendship,Base Game,Dreamlight,☆,Hang out with Sadness for a total of 120 minutes (2 hours),Fog Horns Hockey Uniform,,,,,,,,
+Spark Joy,Friendship,Base Game,Dreamlight,☆,Hang out with Joy for a total of 120 minutes (2 hours).,Hockey Stick,,,,,,,,
+Befriend Companions,Friendship,Base Game,Dreamlight,☆☆☆,1,100,10,300,40,500,,,,
+Bring Friends Their Favorite Gifts,Friendship,Base Game,Dreamlight,☆☆☆☆☆,1,50,15,100,45,200,80,300,180,500
+Bring Gifts!,Friendship,Base Game,Dreamlight,☆☆☆☆☆,3,50,40,100,140,200,240,300,540,500
+Have 1 Friend at a Certain Level,Friendship,Base Game,Dreamlight,☆☆☆☆☆,LV 2,50,LV 4,100,LV 6,200,LV 8,300,LV 10,500
+Have 10 Friends at a Certain Level,Friendship,Base Game,Dreamlight,☆☆☆☆☆,LV 2,50,LV 4,100,LV 6,200,LV 8,300,LV 10,500
+Have 20 Friends at a Certain Level,Friendship,Base Game,Dreamlight,☆☆☆☆☆,LV 2,50,LV 4,100,LV 6,200,LV 8,300,LV 10,500
+Have 5 Friends at a Certain Level,Friendship,Base Game,Dreamlight,☆☆☆☆☆,LV 2,50,LV 4,100,LV 6,200,LV 8,300,LV 10,500
+Have Daily Discussions!,Friendship,Base Game,Dreamlight,☆☆☆☆☆,1,50,50,100,100,200,500,300,"1,000",500
+Make Best Friends,Friendship,Base Game,Dreamlight,☆☆☆,1,100,5,300,15,500,,,,
+Make Friends,Friendship,Base Game,Dreamlight,☆☆☆☆☆,1,50,5,100,10,200,15,300,24,500
+Reach Friendship Level  with 1 Companion,Friendship,Base Game,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level with 10 Companions,Friendship,Base Game,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level with 20 Companions,Friendship,Base Game,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level with 40 Companions,Friendship,Base Game,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level with 5 Companions,Friendship,Base Game,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Take Pictures,Friendship,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,20,200,30,300,50,500
+Gather Bonus Gems given by a Companion,Mining,Base Game,Dreamlight,☆☆☆☆☆,3,50,25,100,100,200,200,300,400,500
+Mine Amethysts,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Aquamarine,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Citrine,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Diamonds,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Emeralds,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Garnets,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Minerals,Mining,Base Game,Dreamlight,☆☆☆☆☆,10,50,140,100,450,200,800,300,"1,800",500
+Mine Peridot,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Rubies,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Sapphires,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Topazes,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Tourmaline,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Vitalys Crystals,Mining,Base Game,Dreamlight,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Sell Gems,Mining,Base Game,Dreamlight,☆☆☆☆☆,4,50,45,100,150,200,270,300,600,500
+Gain Star Coins,Mysteries,Base Game,Dreamlight,☆☆☆☆☆,"10,000",50,"140,000",100,"450,00",200,"800,000",300,"1,800,000",500
+Memorabilia,Mysteries,Base Game,Dreamlight,☆,Memorabilia - Collect 200 Memory Orbs,Lance Slashblade Statue,,,,,,,,
+Feeling Expansive,Mysteries,Base Game,Dreamlight,☆,"Complete Base Game Memory D25, which requires removing Hockey Equipment",Anxiety Squirrel,,,,,,,,
+Feeling Accomplished,Mysteries,Base Game,Dreamlight,☆,"Complete Base Game Memory D24, Base Game Memory D25, and Base Game Memory D26.",Embarrassment Turtle,,,,,,,,
+Feeling Nostalgic,Mysteries,Base Game,Dreamlight,☆,"Complete Base Game Memory D26, which requires removing Hockey Trophy,",Envy Rabbit,,,,,,,,
+Get Nostalgic!,Mysteries,Base Game,Dreamlight,☆,"Complete Base Game Memory D39, which requires removing Riley's Phone",Nostalgia Capybara,,,,,,,,
+Feeling Joyful,Mysteries,Base Game,Dreamlight,☆,"Complete Base Game Memory D24, which requires removing Riley's Birthday Cake",Ennui Raven Companion,,,,,,,,
+A 3-Course Halloween Meal,Mysteries,Base Game,Dreamlight,☆,"Eat Red, Blue, and Green Candy",Green Trick or Treater's Bounty,,,,,,,,
+A Home for the Holidays,Mysteries,Base Game,Dreamlight,☆,Place 5 festive-themed furniture inside your house,Winter Carpet,,,,,,,,
+A Shining Icon,Mysteries,Base Game,Dreamlight,☆,Craft Metallic Mickey Popcorn Bucket,Metallic Mickey's Handheld Popcorn Bucket,,,,,,,,
+Add Rooms to Your House,Mysteries,Base Game,Dreamlight,☆☆☆☆☆,2,50,5,100,10,200,15,300,25,500
+Button-Maker,Mysteries,Base Game,Dreamlight,☆,Craft 20 Purple Buttones,Retroc Magic Kingdom Map,,,,,,,,
+Calmer of Chaos,Mysteries,Base Game,Dreamlight,,,,,,,,,,,
+Clean Your Room,Mysteries,Base Game,Dreamlight,,,,,,,,,,,
+Complete Dreamlight Duties,Mysteries,Base Game,Dreamlight,☆☆☆☆☆,7,50,90,100,280,200,500,300,"1,100",500
+Cookie Taste Test,Mysteries,Base Game,Dreamlight,☆,Make/eat 3 different cookie recipes,Festive Candy Ears,,,,,,,,
+Craftily Ever After,Mysteries,Base Game,Dreamlight,☆,Craft Cinderella Popcorn Bucket,Handheld Cinderella Popcorn Bucket,,,,,,,,
+Destination: Imagination,Mysteries,Base Game,Dreamlight,☆,Craft Figment Popcorn Bucket,Figment Handheld Popcorn Bucket,,,,,,,,
+Do You Wanna Build a Snowman,Mysteries,Base Game,Dreamlight,☆,Craft  a snowman,Festive Candy Ears with Bow,,,,,,,,
+Eggs-ceptional Decorating,Mysteries,Base Game,Dreamlight,☆,Craft/Place,Tulip Lamp,,,,,,,,
+Even Fish Are Festive,Mysteries,Base Game,Dreamlight,☆,Catch all 5 festive-themed fish,Santa Hat,,,,,,,,
+Expert Treasure Hunter,Mysteries,Base Game,Dreamlight,☆,2,Pirate Crossbones Motif,,,,,,,,
+Ho! Ho! Ho! Duty,Mysteries,Base Game,Dreamlight,☆,Collect 10 rolls of wrapping paper,Pile of Gifts,,,,,,,,
+Jungle Bungles,Mysteries,Base Game,Dreamlight,,,,,,,,,,,
+Lucky You!,Mysteries,Base Game,Dreamlight,,,,,,,,,,,
+Mine Time!,Mysteries,Base Game,Dreamlight,☆,Craft mine cart Popcorn Bucket,Handheld Mine Cart Popcorn Bucket,,,,,,,,
+More than a Mirage,Mysteries,Base Game,Dreamlight,,,,,,,,,,,
+"Oh, Brother",Mysteries,Base Game,Dreamlight,☆,Craft Pooh's Popcorn Bucket,Pooh's Handheld Popcorn Bucket,,,,,,,,
+Popcorn Enthusiast,Mysteries,Base Game,Dreamlight,☆☆☆☆☆,Cinderella Popcorn Bucket,--,Figment Popcorn Bucket,--,Metallic Mickey Popcorn Bucket,--,Pooh's Popcorn Bucket,--,Stitch Popcorn Bucket,Vintage Magic Kingdom Map
+Remove Giant Night Thorns from Biomes,Mysteries,Base Game,Dreamlight,☆☆☆,1,100,3,300,6,500,,,,
+Repair Houses,Mysteries,Base Game,Dreamlight,☆☆☆☆,1,50,5,100,10,200,12,300,,
+Repair Stalls,Mysteries,Base Game,Dreamlight,☆☆☆,1,50,4,300,7,500,,,,
+Savor Some Sweetness,Mysteries,Base Game,Dreamlight,☆,Eat a combined total of 25 Marshmallows or S'mores,Hiking Backpack,,,,,,,,
+Share Some Sweetness,Mysteries,Base Game,Dreamlight,☆,Gift 25 Roasted Marshmallows to Villagers,Birding Top,,,,,,,,
+Spring Taste Test,Mysteries,Base Game,Dreamlight,☆,"Cook/eat Spring Chocolate, Spring Mimosa Eggs, Spring Egg Bowl",Spring Tableware,,,,,,,,
+Squirrel!,Mysteries,Base Game,Dreamlight,☆,Craft Doug's Popcorn Bucket,Doug's Handheld Popcorn Bucket,,,,,,,,
+Stitch-y Situation,Mysteries,Base Game,Dreamlight,☆,Craft Stitch Popcorn Bucket,Stitch's Handheld Popcorn Bucket,,,,,,,,
+Stockpile Pumpkins,Mysteries,Base Game,Dreamlight,☆,Stockpile 100 Pumpkins,Pumpkin Stack,,,,,,,,
+Sugar Rush,Mysteries,Base Game,Dreamlight,☆,Craft/Eat Candy,"Happy Jack-O'-Lantern (15 Candies), Marvelous Jack-O'-Lantern (30 Candies), Friendly Jack-O'-Lantern (45 Candies)",,,,,,,,
+Sweet Samaritan,Mysteries,Base Game,Dreamlight,☆,Gift 50 themed cupcakes to villagers,Magic Kingdom Map,,,,,,,,
+That's Not Where Eggs Come From!,Mysteries,Base Game,Dreamlight,,,,,,,,,,,
+Trick or Treat,Mysteries,Base Game,Dreamlight,☆,Give a gift to 10 different Villagers,Mickey Mouse Pumpkin,,,,,,,,
+Upgrade Moana's Boat,Mysteries,Base Game,Dreamlight,☆☆☆,1,100,3,300,9,500,,,,
+Upgrade Remy's Restaurant,Mysteries,Base Game,Dreamlight,☆☆☆,1,100,2,300,3,500,,,,
+Upgrade Scrooge's Store,Mysteries,Base Game,Dreamlight,☆☆☆,1,100,2,300,3,500,,,,
+Upgrade Wall-E's Garden,Mysteries,Base Game,Dreamlight,☆☆☆,1,100,3,300,9,500,,,,
+Upgrade Your House,Mysteries,Base Game,Dreamlight,☆☆☆,1,50,2,300,3,500,,,,
+Villany Wears Many Masks,Mysteries,Base Game,Dreamlight,☆,Wear a mask,Purple Trick or Treater's Bounty,,,,,,,,
+WALL-E Loves Flowers,Mysteries,Base Game,Dreamlight,☆,Gather 50 flowers with WALL-E,Decorative Tulip,,,,,,,,
+Change Outfit,Daily,Base Game,Dreamlight,☆,"Removing an item (e.g. Coat, Earrings) does not count. Changing Hairstyle does not count.",50,,,,,,,,
+Take a picture,Daily,Base Game,Dreamlight,☆,,50,,,,,,,,
+Harvest 3 Fruit,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Spices,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Have a daily discussion,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Pick 3 Mushrooms,Daily,Base Game,Dreamlight,☆,Mushrooms cleared from Small Mushroom Patches and Big Mushroom Patches count,100,,,,,,,,
+Remove 4 Night Thorns,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Collect 3 Bonus Items given by a Companion,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Take a Picture with a Companion,Daily,Base Game,Dreamlight,☆,,50,,,,,,,,
+Prepare a 1-Star Meal or Better,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Prepare a 2-Star Meal or Better,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Prepare a 3-Star Meal or Better,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Prepare a 4-Star Meal or Better,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Prepare a 5-Star Meal,Daily,Base Game,Dreamlight,☆,,250,,,,,,,,
+Prepare a Meal: <<Meal Name>>,Daily,Base Game,Dreamlight,☆,,250,,,,,,,,
+Bring 2 Gifts,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fish,Daily,Base Game,Dreamlight,☆,"Here and There Fish does not count towards this. (However, it does count towards the Sell Fish duty.)",150,,,,,,,,
+Catch 3 Seafood,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Sell 2 Fish,Daily,Base Game,Dreamlight,☆,"Includes Seafood obtained via Fishing (i.e. Crab, Shrimp, Squid). Does not include Seaweed.",150,,,,,,,,
+Sell 5 Fruits,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Sell 3 Vegetables,Daily,Base Game,Dreamlight,☆,"All ingredients categorized as Vegetables during Cooking count, except for Seaweed.",150,,,,,,,,
+Cook with Seafood,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Critter,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Harvest 5 Vegetables,Daily,Base Game,Dreamlight,☆,Harvesting WALL-E's Garden does not count. Harvesting Mushrooms does count.,200,,,,,,,,
+Mine 4 Rock Spots,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Plant 5 Vegetables,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Prepare 2 Meals,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Sell 2 Meals,Daily,Base Game,Dreamlight,☆,Serving a Meal in Chez Remy does not count towards this,200,,,,,,,,
+Sell 1 Minerals,Daily,Base Game,Dreamlight,☆,Only mining artifacts categorized as Gems count - i.e. Crystal does not.,200,,,,,,,,
+Bring a Friend their favorite Gift,Daily,Base Game,Dreamlight,☆,,250,,,,,,,,
+Gain 500 Star Coins,Daily,Base Game,Dreamlight,☆,,250,,,,,,,,
+Serve a Meal in the Restaurant,Daily,Base Game,Dreamlight,☆,,250,,,,,,,,
+Mine 2 Minerals,Daily,Base Game,Dreamlight,☆,Onyx does not count,250,,,,,,,,
+Harvest 3 Apples,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Bananas,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Blueberries,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Cherry,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Cocoa Beans,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Coconuts,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Coffee Beans,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Lemons,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Gooseberries,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest 3 Raspberries,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Catch 3 Fish from the Peaceful Meadow,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fish from Dazzle Beach,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fish from the Forest of Valor,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fish from the Glade of Trust,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fish from the Sunlit Plateau,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fish from the Frosted Heights,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fish from the Forgotten Lands,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Anglerfish,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Carp,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Fugu,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Lancetfish,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Pike,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Rainbow Trout,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Salmon,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Sole,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 Swordfish,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Catch 3 White Sturgeon,Daily,Base Game,Dreamlight,☆,,150,,,,,,,,
+Feed a Squirrel,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Rabbit,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Sea Turtle,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Raccoon,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Crocodile,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Sunbird,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Fox,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Feed a Raven,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots in the Plaza,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots in the Peaceful Meadow,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots on Dazzle Beach,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots in the Forest of Valor,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots in the Glade of Trust,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots on the Sunlit Plateau,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots in the Frosted Heights,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots in the Forgotten Lands,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Mine 4 Rock Spots in the Vitalys Mines,Daily,Base Game,Dreamlight,☆,,200,,,,,,,,
+Add 3 Decorations to the Plaza,Daily,Base Game,Dreamlight,☆,Moving existing Furniture or Landscaping items will satisfy. Adding or moving items that can be dropped from Inventory (including Flowers) will not.,100,,,,,,,,
+Add 3 Decorations to the Peaceful Meadow,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Add 3 Decorations to Dazzle Beach,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Add 3 Decorations to the Forest of Valor,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Add 3 Decorations to the Glade of Trust,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Add 3 Decorations to the Frosted Heights,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Add 3 Decorations to the Forgotten Lands,Daily,Base Game,Dreamlight,☆,,100,,,,,,,,
+Harvest Spring V-EGG-etable (3),Daily,Base Game,Dreamlight,☆,During Eggstravaganza,100,,,,,,,,
+Pick Egg-cellent Fruit (3),Daily,Base Game,Dreamlight,☆,During Eggstravaganza,100,,,,,,,,
+Pick Wild Spring Egg (3),Daily,Base Game,Dreamlight,☆,During Eggstravaganza,100,,,,,,,,
+Cook with Eternity Isle Fishes,Food,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook with Eternity Isle Fruits,Food,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook with Eternity Isle Seafood,Food,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook with Eternity Isle Spices,Food,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Cook with Eternity Isle Vegetables,Food,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,40,200,70,300,150,500
+Catch Fish from Ancient's Landing,Food,Eternity Isle,Mist,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Glittering Dunes,Food,Eternity Isle,Mist,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Catch Fish from the Wild Tangle,Food,Eternity Isle,Mist,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Sell fish from Eternity Isle,Food,Eternity Isle,Mist,☆☆☆☆☆,4,50,45,100,150,200,270,300,600,500
+Buy Seeds in Ancient's Landing,Food,Eternity Isle,Mist,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds in the Glittering Dunes,Food,Eternity Isle,Mist,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Buy Seeds in the Wild Tangle,Food,Eternity Isle,Mist,☆☆☆☆☆,4,50,50,100,160,200,285,300,645,500
+Harvest Vegetables from Eternity Isle,Food,Eternity Isle,Mist,☆☆☆☆☆,25,50,400,100,"1,100",200,"2,000",300,"4,500",500
+Plant Vegetables on Eternity Isle,Food,Eternity Isle,Mist,☆☆☆☆☆,25,50,350,100,"1,100",200,"2,000",300,"4,500",500
+Sell Vegetables from Eternity Isle,Food,Eternity Isle,Mist,☆☆☆☆☆,10,50,120,100,380,200,670,300,"1,500",500
+Feed Capybaras Thier Favorite Food,Foraging,Eternity Isle,Mist,☆☆☆,1,100,3,200,10,500,,,,
+Feed Cobras Thier Favorite Food,Foraging,Eternity Isle,Mist,☆☆☆,1,100,3,200,10,500,,,,
+Feed Monkeys Thier Favorite Food,Foraging,Eternity Isle,Mist,☆☆☆,1,100,3,200,10,500,,,,
+Feed the Capybaras,Foraging,Eternity Isle,Mist,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Cobras,Foraging,Eternity Isle,Mist,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Monkeys,Foraging,Eternity Isle,Mist,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Harvest Agave,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Almonds,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Cumin,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Dates,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Dreamangoes,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Majestea,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Nestling Pears,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Paprika,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Harvest Strawberries,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Havest Cactoberries,Foraging,Eternity Isle,Mist,☆☆☆☆☆,5,50,70,100,230,200,400,300,900,500
+Remove Splinters of Fate,Foraging,Eternity Isle,Mist,☆☆☆☆☆,25,50,230,100,750,200,"1,300",300,"3,000",500
+Sell Fruit from Eternity Isle,Foraging,Eternity Isle,Mist,☆☆☆☆☆,20,50,230,100,750,200,"1,300",300,"3,000",500
+Befriend Companions from Eternity Isle,Friendship,Eternity Isle,Mist,☆☆☆,1,50,5,300,,500,,,,
+Find Figurines,Friendship,Eternity Isle,Mist,☆☆☆,1,100,10,300,,,,,,
+Hang Out with Friends from Eternity Isle,Friendship,Eternity Isle,Mist,☆☆☆☆,60,100,120,300,240,500,,,,
+Play Scramblecoin,Friendship,Eternity Isle,Mist,☆☆☆☆☆,3,50,10,100,25,200,50,300,100,500
+Reach Friendship Level  with 1 Eternity Isle Companion,Friendship,Eternity Isle,Mist,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level  with 10 Eternity Isle Companions,Friendship,Eternity Isle,Mist,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level with 5 Eternity Isle Companions,Friendship,Eternity Isle,Mist,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Win at Scramblecoin,Friendship,Eternity Isle,Mist,☆☆☆☆☆,2,50,5,100,15,200,30,300,75,500
+Mine Alexandrite,Mining,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Blue Zircon,Mining,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Bumblestone,Mining,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Evergems,Mining,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Jade,Mining,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Mine Spinel,Mining,Eternity Isle,Mist,☆☆☆☆☆,1,50,10,100,30,200,50,300,120,500
+Sell Gems from Eternity Isle,Mining,Eternity Isle,Mist,☆☆☆☆☆,4,50,45,100,150,200,270,300,600,500
+Combine Resources into Auto-Cookers,Timebending,Eternity Isle,Mist,☆☆☆,1,100,3,300,5,500,,,,
+Combine Resources into Gardeners,Timebending,Eternity Isle,Mist,☆☆☆,1,100,3,300,5,500,,,,
+Combine Resources into Vacuums,Timebending,Eternity Isle,Mist,☆☆☆,1,100,3,300,5,500,,,,
+Find Gifts with Your Hourglass,Timebending,Eternity Isle,Mist,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Find Glimmer with Your Hourglass,Timebending,Eternity Isle,Mist,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Find Parts with Your Hourglass,Timebending,Eternity Isle,Mist,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Fine Cores with Your Hourglass,Timebending,Eternity Isle,Mist,☆☆☆☆☆,2,50,20,100,60,200,110,300,260,500
+Upgrade Hourglass,Timebending,Eternity Isle,Mist,☆☆☆,1,100,2,300,3,500,,,,
+Change Outfit,Daily,Eternity Isle,Mist,☆,,,,,,,,,,
+Take a picture,Daily,Eternity Isle,Mist,☆,,50,,,,,,,,
+Add 3 Decorations to the Glittering Dunes,Daily,Eternity Isle,Mist,☆,,50,,,,,,,,
+Add 3 Decorations to the Wild Tangle,Daily,Eternity Isle,Mist,☆,,100,,,,,,,,
+Sell 2 Fish,Daily,Eternity Isle,Mist,☆,,100,,,,,,,,
+Sell 2 Meals,Daily,Eternity Isle,Mist,☆,,100,,,,,,,,
+Sell 3 Vegetables,Daily,Eternity Isle,Mist,☆,,100,,,,,,,,
+Sell 5 Fruits,Daily,Eternity Isle,Mist,☆,,100,,,,,,,,
+Harvest 3 Almonds,Daily,Eternity Isle,Mist,☆,,100,,,,,,,,
+Harvest 3 Cactoberries,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Harvest 3 Dates,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Harvest 3 Dreamangoes,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Harvest 3 Eternity Isle Spices,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Harvest 3 Strawberries,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Have a daily discussion,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Plant 5 Vegetables,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Plant 5 Vegetables on Eternity Isle,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Remove 3 Splinters of Fate,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Cook with Seafood,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+"Hang out with <<Gaston, EVE, Rapunzel>> for 5 minutes",Daily,Eternity Isle,Mist,☆,,200,,,,,,,,
+Prepare 2 Meals,Daily,Eternity Isle,Mist,☆,,200,,,,,,,,
+Prepare <<Meal Name>>,Daily,Eternity Isle,Mist,☆,,200,,,,,,,,
+Bring 2 Gifts,Daily,Eternity Isle,Mist,☆,,200,,,,,,,,
+Bring a Friend their favorite Gift,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Catch 3 Fish,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Catch 3 Fish in Ancient's Landing,Daily,Eternity Isle,Mist,☆,"Octopus, Sand Worm, Scorpion, Sea Snail does not count.",250,,,,,,,,
+Catch 3 Seafood,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Catch 3 Eternity Isle Seafood,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Catch 3 Dunebopper,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Catch 3 Piranha,Daily,Eternity Isle,Mist,☆,,350,,,,,,,,
+Catch 3 Pirarucu,Daily,Eternity Isle,Mist,☆,,350,,,,,,,,
+Catch 3 Sand Fish,Daily,Eternity Isle,Mist,☆,,350,,,,,,,,
+Feed a Capybara,Daily,Eternity Isle,Mist,☆,,350,,,,,,,,
+Feed a Cobra,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Feed a Critter,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Feed a Monkey,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Gain 500 Star Coins,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Harvest 5 Vegetables,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Mine 4 Rock Spots,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Mine 4 Rock Spots in Ancient's Landing,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Mine 4 Rock Spots in the Glittering Dunes,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Mine 4 Rock Spots in the Wild Tangle,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Serve a Meal in the Restaurant,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Prepare a 1-Star Meal or Better,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Prepare a 2-Star Meal or Better,Daily,Eternity Isle,Mist,☆,,100,,,,,,,,
+Prepare a 3-Star Meal or Better,Daily,Eternity Isle,Mist,☆,,150,,,,,,,,
+Prepare a 4-Star Meal or Better,Daily,Eternity Isle,Mist,☆,,200,,,,,,,,
+Prepare a 5-Star Meal,Daily,Eternity Isle,Mist,☆,,250,,,,,,,,
+Find 3 Timebending Parts,Daily,Eternity Isle,Mist,☆,,300,,,,,,,,
+Find 1 Timebending Cores,Daily,Eternity Isle,Mist,☆,,300,,,,,,,,
+Find 1 Timebending Gifts,Daily,Eternity Isle,Mist,☆,,500,,,,,,,,
+Win at Scramblecoin against <<Character>>,Daily,Eternity Isle,Mist,☆,,500,,,,,,,,
+Win at Scramblecoin 1 times,Daily,Eternity Isle,Mist,☆,,500,,,,,,,,
+Cook with Storybook Vale Fish,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,40,150,70,200,150,250
+Cook with Storybook Vale Fruit,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,40,150,70,200,150,250
+Cook with Storybook Vale Seafood,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,40,150,70,200,150,250
+Cook with Storybook Vale Spices,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,40,150,70,200,150,250
+Cook with Storybook Vale Vegetables,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,40,150,70,200,150,250
+Catch Fish from Everafter,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,2,50,20,100,60,150,110,200,150,250
+Catch Fish from Mythopia,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,2,50,20,100,60,150,110,200,150,250
+Catch Fish from the Bind,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,2,50,20,100,60,150,110,200,150,250
+Sell Fish from the Storybook Vale,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,4,50,45,100,150,150,270,200,600,250
+Buy Seeds in the Bind,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,4,50,50,100,160,150,285,200,645,250
+Buy Seeds in the Everafter,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,4,50,50,100,160,150,285,200,645,250
+Buy Seeds in the Mythopia,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,4,50,50,100,160,150,285,200,645,250
+Harvest Vegetables from Storybook Vale,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,25,50,400,100,"1,100",150,"2,000",200,"4,500",250
+Plant Vegetables from the Storybook Vale,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,25,50,350,100,"1,100",150,"2,000",200,"4,500",250
+Sell Vegetables from the Storybook Vale,Food,Storybook Vale,Storybook Magic,☆☆☆☆☆,10,50,120,100,380,150,670,200,"1,500",250
+Feed the Baby Dragon,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,7,100,25,150,40,200,90,250
+Feed the Baby Dragons Their Favorite Food,Foraging,Storybook Vale,Storybook Magic,☆☆☆,1,50,3,100,10,150,,,,
+Feed the Baby Pegasus,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,7,100,25,150,40,200,90,250
+Feed the Baby Pegasus Their Favorite Food,Foraging,Storybook Vale,Storybook Magic,☆☆☆,1,50,3,100,10,150,,,,
+Feed the Owls,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,7,100,25,150,40,200,90,250
+Feed the Owls Their Favorite Food,Foraging,Storybook Vale,Storybook Magic,☆☆☆,1,50,3,100,10,150,,,,
+Harvest Brussel Sprouts,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Cape Gooseberries,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Lightning SPice,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Nutmeg,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Olives,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Persimmons,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Porcini Mushrooms,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Sour Berries,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Spiral Strawberries,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Trumpet Snails,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Harvest Vanilla,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,5,50,70,100,230,150,400,200,900,250
+Remove Inkies,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,20,50,230,100,750,150,"1,300",200,"3,000",250
+Sell Fruits from the Storybook Vale,Foraging,Storybook Vale,Storybook Magic,☆☆☆☆☆,20,50,230,100,750,150,"1,300",200,"3,000",250
+Befriend Companions from Storybook Vale,Friendship,Storybook Vale,Storybook Magic,☆☆☆,1,150,4,300,,500,,,,
+Hang Out with Friends from Storybook Vale,Friendship,Storybook Vale,Storybook Magic,☆☆☆,60 Min,50,120 Min,100,240 Min,150,,,,
+Reach Friendship Level  with 1 Storybook Vale Companion,Friendship,Storybook Vale,Storybook Magic,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level  with 10 Storybook Vale Companions,Friendship,Storybook Vale,Storybook Magic,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level  with 5 Storybook Vale Companions,Friendship,Storybook Vale,Storybook Magic,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Mine Magma,Mining,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,50,200,120,250
+Mine Marble,Mining,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,50,200,120,250
+Mine Opal,Mining,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,50,200,120,250
+Mine Petrified Wood,Mining,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,50,200,120,250
+Mine Pure Ice,Mining,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,50,200,120,250
+Mine Star Sapphire,Mining,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,50,200,120,250
+Sell Gems from the Storybook Vale,Mining,Storybook Vale,Storybook Magic,☆☆☆☆☆,4,50,45,100,150,150,270,200,600,250
+Catch Bird Snippets,Snippet Catching,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,60,200,120,250
+Catch Demon Snippets,Snippet Catching,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,60,200,120,250
+Catch Frog Snippets,Snippet Catching,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,60,200,120,250
+Catch Snippets,Snippet Catching,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,50,100,100,150,200,200,500,250
+Craft Lure Traps,Snippet Catching,Storybook Vale,Storybook Magic,☆☆☆,1,50,3,100,5,150,,,,
+Craft Slow Traps,Snippet Catching,Storybook Vale,Storybook Magic,☆☆☆,1,50,3,100,5,150,,,,
+Craft Snippet Repellent,Snippet Catching,Storybook Vale,Storybook Magic,☆☆☆,1,50,3,100,5,150,,,,
+Reorder Stories,Village,Storybook Vale,Storybook Magic,☆☆☆☆☆,1,50,10,100,30,150,50,200,120,250
+Change Outfit,Daily,Storybook Vale,Storybook Magic,☆,,50,,,,,,,,
+Take a picture,Daily,Storybook Vale,Storybook Magic,☆,,50,,,,,,,,
+Plant 5 Vegetables in the Storybook Vale,Daily,Storybook Vale,Storybook Magic,☆,,50,,,,,,,,
+Harvest 3 Fruit,Daily,Storybook Vale,Storybook Magic,☆,,50,,,,,,,,
+Prepare a 1-Star Meal or Better,Daily,Storybook Vale,Storybook Magic,☆,,50,,,,,,,,
+Plant 5 Vegetables,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Sell 5 Vegetables,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Sell 5 Fruits,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Sell 1 Minerals,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Sell 2 Fish,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Sell 2 Fish,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Sell 2 Meals,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Prepare a 2-Star Meal or Better,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Remove 3 Inkies,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Add 3 Decorations to The Bind,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Add 3 Decorations to Mythopia,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Add 3 Decorations to Everafter,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Cook with Seafood,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Harvest 3 Spices,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Harvest 3 Olives,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Harvest Nutmeg 3 times,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Harvest 3 Brussels Sprouts,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Harvest 3 Spiral Strawberries,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Have a daily discussion,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Gain 500 Star Coins,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Sorcerer Hat Hermit Crab,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Sea Wolf,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Cod,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Squid,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Tuna,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Stygian Mudskipper,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Rainbow Trout,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Catch 1 Hippocampus,Daily,Storybook Vale,Storybook Magic,☆,,100,,,,,,,,
+Prepare a 3-Star Meal or Better,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Harvest 5 Vegetables,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Harvest 5 Vegetables from the Storybook Vale,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Catch 3 Fish,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Catch 3 Fish in the Bind,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Catch 3 Fish in Mythopia,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Catch 3 Fish in Everafter,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Catch 3 Seafood,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 4 Rock Spots in the Bind,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 4 Rock Spots in Mythopia,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 4 Rock Spots in Everafter,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 4 Rock Spots,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 1 Star Sapphire,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 1 Magma,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 1 Opal,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 1 Topaz,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 1 Ruby,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Mine 2 Minerals,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Bring 2 Gifts,Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+"Hang out with <<Merida, Flynn, Hades>> for 5 minutes",Daily,Storybook Vale,Storybook Magic,☆,,150,,,,,,,,
+Prepare a 4-Star Meal or Better,Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Feed a Critter,Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Feed an Owl,Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Feed a Baby Dragon,Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Feed a Baby Pegasus,Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Catch Bird Snippets (3),Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Catch Demon Snippets (3),Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Catch Frog Snippets (3),Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Catch Any Snippets (4),Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Prepare a Meal: <<Meal Name>>,Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Reorder a Story,Daily,Storybook Vale,Storybook Magic,☆,,200,,,,,,,,
+Prepare a 5-Star Meal,Daily,Storybook Vale,Storybook Magic,☆,,250,,,,,,,,
+Serve a Meal in the Restaurant,Daily,Storybook Vale,Storybook Magic,☆,,250,,,,,,,,
+Bring a Friend their favorite Gift,Daily,Storybook Vale,Storybook Magic,☆,,250,,,,,,,,
+Catch Fish from the Wising Alps,Fishing,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,2,50,20,100,,,,,,
+Catch Fish from Glamour Gulch,Fishing,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,2,50,20,100,,,,,,
+Catch Fish from Pixie Acres,Fishing,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,2,50,20,100,,,,,,
+Cook with Wishblossom Ranch Fish,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,,,,,,,,
+Cook with Wishblossom Ranch Seafood,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,,,,,,,,
+Cook with Wishblossom Ranch Fruit,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,,,,,,,,
+Cook with Wishblossom Ranch Vegetables,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,10,100,,,,,,
+Feed the Geese,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Skunks,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Sweet Bees,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,7,100,25,200,40,300,90,500
+Feed the Skunks their favorite food,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,7,100,,,,,,
+Feed the Geese their favorite food,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,7,100,,,,,,
+Feed the Sweet Bees their favorite food,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,50,7,100,,,,,,
+Befriend Companions from the Wishblossom Mountains,Friendship,Wishblossom Mountains,Dreamlight,☆☆☆,1,150,4,300,,500,,,,
+Reach Friendship Level with 1 Wishblossom Mountains Companion,Friendship,Wishblossom Mountains,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level with 5 Wishblossom Mountains Companion,Friendship,Wishblossom Mountains,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Reach Friendship Level with 10 Wishblossom Mountains Companion,Friendship,Wishblossom Mountains,Dreamlight,☆☆☆☆,LV 2,50,LV 3,100,LV 4,300,LV 5,500,,
+Hangout with friends from the Wishblossom Mountain,Friendship,Wishblossom Mountains,Dreamlight,☆☆☆,60 Min,50,120 Min,100,240 Min,150,,,,
+Harvest Dill,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,5,50,70,100,,,,,,
+Harvest Button Mushrooms,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,5,50,70,100,,,,,,
+Harvest Red Currants,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,5,50,70,100,,,,,,
+Harvest Pincushion Peaches,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,5,50,70,100,,,,,,
+Harvest Bonsai Star Fruit,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,5,50,70,100,,,,,,
+Remove Dead Wishblossoms,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,20,10,230,200,,,,,,
+Harvest Vegatabes from the Wishblossom Mountains,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,35,100,400,200,,,,,,
+Plant Vegetables in the Wishblossom Mountains,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,25,10,350,200,,,,,,
+Buy Seeds in Wishblossom Mountains,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,4,100,50,200,160,300,285,400,,
+Mine Silver Ore,Mining,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,100,10,200,30,300,,400,,500
+Mine Pyrite,Mining,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,100,10,200,30,300,,400,,500
+Mine Antique Iron Clothes,Mining,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,100,10,200,30,300,,400,,500
+Mine Japer,Mining,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,100,10,200,30,300,,400,,500
+Mine Honeycomb Stone,Mining,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,100,10,200,30,300,,400,,500
+Mine Grassy Ore,Mining,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,1,100,10,200,30,300,,400,,500
+Sell Fish from the Wishblossom Mountains,Fishing,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,4,100,,,,,,,,
+Sell Fruit from the Wishblossom Mountains,Foraging,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,20,100,,,,,,,,
+Sell Gems from the Wishblossom Mountains,Mining,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,4,100,,,,,,,,
+Sell Vegetables from the Wishblossom Mountains,Food,Wishblossom Mountains,Dreamlight,☆☆☆☆☆,10,100,120,200,380,300,,,,
+Gain 500 Star Coins,Daily,Wishblossom Mountains,Dreamlight,☆,500,250,,,,,,,,
+Plant 5 Vegetables,Daily,Wishblossom Mountains,Dreamlight,☆,5,150,,,,,,,,
+Harvest 3 Spices,Daily,Wishblossom Mountains,Dreamlight,☆,3,100,,,,,,,,
+Mine 2 Minerals,Daily,Wishblossom Mountains,Dreamlight,☆,2,150,,,,,,,,
+Prepare a 1-Star Meal or Better,Daily,Wishblossom Mountains,Dreamlight,☆,1,50,,,,,,,,
+Change Outfit,Daily,Wishblossom Mountains,Dreamlight,☆,1,50,,,,,,,,
+Bring a Friend their favorite Gift,Daily,Wishblossom Mountains,Dreamlight,☆,1,250,,,,,,,,
+Take a Picture with a Companion,Daily,Wishblossom Mountains,Dreamlight,☆,1,50,,,,,,,,
+Feed a Critter,Daily,Wishblossom Mountains,Dreamlight,☆,1,200,,,,,,,,
+Harvest 5 Vegetables,Daily,Wishblossom Mountains,Dreamlight,☆,5,100,,,,,,,,
+Catch 3 Seafood,Daily,Wishblossom Mountains,Dreamlight,☆,3,150,,,,,,,,
+Prepare a 3-Star Meal or Better,Daily,Wishblossom Mountains,Dreamlight,☆,1,150,,,,,,,,
+Pet a Companion,Daily,Wishblossom Mountains,Dreamlight,☆,1,100,,,,,,,,
+Bring 2 Gifts,Daily,Wishblossom Mountains,Dreamlight,☆,2,150,,,,,,,,
+Gain 500 Star Coins,Daily,Wishblossom Mountains,Dreamlight,☆,500,250,,,,,,,,
+,,,Dreamlight,☆,,,,,,,,,,
+,,,Dreamlight,☆,,,,,,,,,,
+,,,Dreamlight,☆,,,,,,,,,,
+,,,Dreamlight,☆,,,,,,,,,,
+,,,Dreamlight,☆,,,,,,,,,,
+,,,Dreamlight,,,,,,,,,,,
