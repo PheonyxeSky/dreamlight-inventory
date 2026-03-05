@@ -1,0 +1,22 @@
+{
+  "user": "PhoenyxeSkye",
+  "currency": {
+    "dreamlight": 0,
+    "moonstones": 0,
+    "gold": 0
+  },
+  "main_valley": {
+    "ingredients": {},
+    "furniture": {},
+    "dreamlight_tasks": []
+  },
+  "eternity_isle": {
+    "ancient_items": {},
+    "rifts": []
+  },
+  "storybook_vale": {},
+  "wish_blossom": {},
+  "star_path": {
+    "current_rewards": []
+  }
+}
