@@ -48,27 +48,90 @@
   "Scarlet Kale": {"qty": 0, "location": "Wishblossom Mountains", "grow_time": "10m", "yield": 2}
 },
     "fruits": {
-      "Apple": {"qty": 0, "location": "Peaceful Meadow"},
-      "Banana": {"qty": 0, "location": "Dazzle Beach"},
-      "Blueberry": {"qty": 0, "location": "Forest of Valor"},
-      "Cherry": {"qty": 0, "location": "Plaza"},
-      "Coconut": {"qty": 0, "location": "Dazzle Beach"},
-      "Gooseberry": {"qty": 0, "location": "Forgotten Lands"},
-      "Lemon": {"qty": 0, "location": "Glittering Dunes"},
-      "Raspberry": {"qty": 0, "location": "Peaceful Meadow"}
-    },
+  "Apple": {"qty": 0, "location": "Peaceful Meadow, Plaza, Forest of Valor", "grow_time": "20m", "yield": 3},
+  "Banana": {"qty": 0, "location": "Dazzle Beach, Peaceful Meadow", "grow_time": "23m", "yield": 3},
+  "Blueberry": {"qty": 0, "location": "Forest of Valor, Dazzle Beach", "grow_time": "23m", "yield": 3},
+  "Cherry": {"qty": 0, "location": "Frosted Heights, Sunlit Plateau", "grow_time": "33m", "yield": 3},
+  "Cocoa Bean": {"qty": 0, "location": "Sunlit Plateau", "grow_time": "30m", "yield": 3},
+  "Coconut": {"qty": 0, "location": "Dazzle Beach (after Moana quest)", "source": "foraging/tree"},
+  "Dreamlight Fruit": {"qty": 0, "location": "Multiple (Glade of Trust, Sunlit Plateau, Frosted Heights, Forgotten Lands after Seed of Memories quest)", "source": "tree"},
+  "Gooseberry": {"qty": 0, "location": "Forgotten Lands", "grow_time": "n/a", "source": "foraging"},
+  "Lemon": {"qty": 0, "location": "Glittering Dunes", "grow_time": "n/a", "source": "foraging"},
+  "Raspberry": {"qty": 0, "location": "Peaceful Meadow", "grow_time": "n/a", "source": "foraging"},
+  // Eternity Isle DLC
+  "Almonds": {"qty": 0, "location": "Wild Tangle (The Grasslands, The Promenade, The Grove, The Lagoon)", "source": "foraging"},
+  "Cactoberries": {"qty": 0, "location": "Glittering Dunes (The Oasis, The Borderlands)", "source": "foraging"},
+  "Dreamango": {"qty": 0, "location": "Wild Tangle", "source": "foraging"},
+  "Nestling Pear": {"qty": 0, "location": "Ancient's Landing", "source": "foraging"},
+  "Strawberry": {"qty": 0, "location": "Glittering Dunes", "source": "foraging"},
+  "Cosmic Figs": {"qty": 0, "location": "Ancient's Landing", "grow_time": "25m", "yield": 2},
+  "Grapes": {"qty": 0, "location": "Ancient's Landing", "grow_time": "20m", "yield": 1},
+  "Melon": {"qty": 0, "location": "Glittering Dunes", "grow_time": "30m", "yield": 1},
+  "Pineapple": {"qty": 0, "location": "Wild Tangle", "grow_time": "3h30m", "yield": 1},
+  // Storybook Vale DLC
+  "Cape Gooseberry": {"qty": 0, "location": "The Bind", "source": "foraging"},
+  "Golden Apple": {"qty": 0, "location": "Mythopia (Goofy's Stall)", "source": "purchase"},
+  "Honeydew Melon": {"qty": 0, "location": "Mythopia (Goofy's Stall)", "source": "purchase"},
+  "Persimmon": {"qty": 0, "location": "Everafter", "source": "tree"},
+  "Sour Berries": {"qty": 0, "location": "The Bind", "source": "tree"},
+  "Spiral Strawberry": {"qty": 0, "location": "Everafter", "source": "foraging"},
+  // Wishblossom Mountains DLC
+  "Bonsai Star Fruit": {"qty": 0, "location": "Pixie Acres", "grow_time": "20m", "yield": 2},
+  "Lollipop Fruit": {"qty": 0, "location": "Pixie Acres", "grow_time": "n/a", "source": "seed purchase"},
+  "Pink Cushion Peach": {"qty": 0, "location": "Glamour Gulch", "source": "tree"},
+  "Red Currant": {"qty": 0, "location": "Wishing Alps", "source": "tree"}
+},
     "spices_herbs": {
-      "Basil": {"qty": 0, "location": "Peaceful Meadow"},
-      "Mint": {"qty": 0, "location": "Frosted Heights"},
-      "Oregano": {"qty": 0, "location": "Sunlit Plateau"},
-      "Thyme": {"qty": 0, "location": "Glade of Trust"}
-    },
-    "dairy_oil": {
-      "Milk": {"qty": 0, "location": "Chez Remy"},
-      "Butter": {"qty": 0},
-      "Egg": {"qty": 0},
-      "Cheese": {"qty": 0}
-    },
+  "Agave": {"qty": 0, "location": "Glittering Dunes", "source": "foraging"},
+  "Ambrosia": {"qty": 0, "location": "Mythopia (Storybook Vale)", "source": "Goofy's Stall"},
+  "Basil": {"qty": 0, "location": "Peaceful Meadow", "source": "foraging"},
+  "Black Pepper": {"qty": 0, "location": "Various (DLC?)"},
+  "Chrysanthemum Tea Leaves": {"qty": 0, "location": "Mulan's Tea Stall"},
+  "Cinnamon": {"qty": 0, "location": "Wild Tangle (The Grasslands)", "source": "foraging"},
+  "Cumin": {"qty": 0, "location": "Ancient's Landing", "source": "foraging"},
+  "Garlic": {"qty": 0, "location": "Forest of Valor", "source": "foraging"},
+  "Ginger": {"qty": 0, "location": "Forgotten Lands", "source": "foraging"},
+  "Majestea": {"qty": 0, "location": "Ancient's Landing", "source": "foraging"},
+  "Mint": {"qty": 0, "location": "Frosted Heights", "source": "foraging"},
+  "Mushroom": {"qty": 0, "location": "Glade of Trust", "source": "foraging"},
+  "Oregano": {"qty": 0, "location": "Plaza", "source": "foraging"},
+  "Paprika": {"qty": 0, "location": "Glittering Dunes", "source": "foraging"},
+  "Vanilla": {"qty": 0, "location": "Sunlit Plateau", "source": "foraging"}
+},
+"dairy_oil": {
+  "Butter": {"qty": 0, "location": "Chez Remy / Remy's Restaurant", "buy_price": 190},
+  "Canola": {"qty": 0, "location": "Forest of Valor / The Docks", "grow_time": "35m", "yield": 1},
+  "Cheese": {"qty": 0, "location": "Chez Remy / Remy's Restaurant", "buy_price": 180},
+  "Egg": {"qty": 0, "location": "Chez Remy / Remy's Restaurant", "buy_price": 220},
+  "Milk": {"qty": 0, "location": "Chez Remy / Remy's Restaurant", "buy_price": 230},
+  "Peanut": {"qty": 0, "location": "Chez Remy / Remy's Restaurant (after quest)", "buy_price": 200},
+  "Slush Ice": {"qty": 0, "location": "Chez Remy / Remy's Restaurant", "buy_price": 150},
+  "Soya": {"qty": 0, "location": "Sunlit Plateau", "grow_time": "n/a"}
+},
+"grains": {
+  "Barley": {"qty": 0, "location": "The Bind (Storybook Vale)", "grow_time": "15m", "yield": 1},
+  "Canola": {"qty": 0, "location": "Forest of Valor / The Docks", "grow_time": "35m", "yield": 1},
+  "Elysian Grain": {"qty": 0, "location": "Mythopia / Various (Storybook Vale)", "source": "purchase/gardening"},
+  "Faerie Rye": {"qty": 0, "location": "Storybook Vale", "source": "gardening"},
+  "Fairy Kamut": {"qty": 0, "location": "Storybook Vale DLC"},
+  "Oats": {"qty": 0, "location": "Everafter (Storybook Vale)", "grow_time": "2h", "yield": 1},
+  "Pearly Barley": {"qty": 0, "location": "Storybook Vale DLC"},
+  "Rice": {"qty": 0, "location": "Glade of Trust / Various stalls", "grow_time": "50m", "yield": 2},
+  "Soya": {"qty": 0, "location": "Sunlit Plateau"},
+  "Sugarcane": {"qty": 0, "location": "Dazzle Beach", "grow_time": "7m", "yield": 1},
+  "Wheat": {"qty": 0, "location": "Peaceful Meadow / The Docks", "grow_time": "1m", "yield": 2}
+},
+"proteins": {
+  "Pork": {"qty": 0, "location": "The Wastes - Gaston's Stall (Eternity Isle DLC)", "buy_price": 1000, "energy": 250},
+  "Poultry": {"qty": 0, "location": "The Wastes - Gaston's Stall (Eternity Isle DLC)", "buy_price": 500, "energy": 250},
+  "Venison": {"qty": 0, "location": "The Wastes - Gaston's Stall (Eternity Isle DLC)", "buy_price": 1000, "energy": 250}
+},
+"sweets": {
+  "Cocoa Bean": {"qty": 0, "location": "Sunlit Plateau", "grow_time": "30m", "yield": 3},
+  "Honey": {"qty": 0, "location": "Various DLC foraging (if added)"},
+  "Sugarcane": {"qty": 0, "location": "Dazzle Beach", "grow_time": "7m", "yield": 1},
+  "Vanilla": {"qty": 0, "location": "Sunlit Plateau", "source": "foraging"}
+},
        "fish": {
       "Anglerfish": {"qty": 0, "location": "Forgotten Lands"},
       "Bass": {"qty": 0, "location": "Multiple (Peaceful Meadow, Forest of Valor, Sunlit Plateau, Frosted Heights, Forgotten Lands, etc.)"},
