@@ -6,18 +6,89 @@
     "gold": 130473728,
     "mist": 53382487
   },
-  "main_valley": {
-    "ingredients": {},
-    "furniture": {},
-    "dreamlight_tasks": []
+  "ingredients": {
+    "vegetables": {
+      "Asparagus": {"qty": 0, "location": "Frosted Heights", "grow_time": "2h15m"},
+      "Bell Pepper": {"qty": 0, "location": "Forest of Valor", "grow_time": "15m"},
+      "Carrot": {"qty": 0, "location": "Peaceful Meadow", "grow_time": "15m"},
+      "Chili Pepper": {"qty": 0, "location": "Sunlit Plateau", "grow_time": "45m"},
+      "Corn": {"qty": 0, "location": "Dazzle Beach", "grow_time": "12m"},
+      "Cucumber": {"qty": 0, "location": "Frosted Heights", "grow_time": "1h15m"},
+      "Eggplant": {"qty": 0, "location": "Frosted Heights", "grow_time": "3h"},
+      "Leek": {"qty": 0, "location": "Forgotten Lands", "grow_time": "2h"},
+      "Lettuce": {"qty": 0, "location": "Peaceful Meadow", "grow_time": "3m"},
+      "Mushroom": {"qty": 0, "location": "Glade of Trust", "source": "Foraging"},
+      "Okra": {"qty": 0, "location": "Glade of Trust", "grow_time": "2h"},
+      "Onion": {"qty": 0, "location": "Forest of Valor", "grow_time": "1h15m"},
+      "Potato": {"qty": 0, "location": "Forgotten Lands", "grow_time": "35m"},
+      "Pumpkin": {"qty": 0, "location": "Forgotten Lands", "grow_time": "4h"},
+      "Spinach": {"qty": 0, "location": "Glade of Trust", "grow_time": "1h"},
+      "Tomato": {"qty": 0, "location": "Dazzle Beach", "grow_time": "25m"},
+      "Zucchini": {"qty": 0, "location": "Sunlit Plateau", "grow_time": "40m"}
+    },
+    "fruits": {
+      "Apple": {"qty": 0, "location": "Peaceful Meadow"},
+      "Banana": {"qty": 0, "location": "Dazzle Beach"},
+      "Blueberry": {"qty": 0, "location": "Forest of Valor"},
+      "Cherry": {"qty": 0, "location": "Plaza"},
+      "Coconut": {"qty": 0, "location": "Dazzle Beach"},
+      "Gooseberry": {"qty": 0, "location": "Forgotten Lands"},
+      "Lemon": {"qty": 0, "location": "Glittering Dunes"},
+      "Raspberry": {"qty": 0, "location": "Peaceful Meadow"}
+    },
+    "spices_herbs": {
+      "Basil": {"qty": 0, "location": "Peaceful Meadow"},
+      "Mint": {"qty": 0, "location": "Frosted Heights"},
+      "Oregano": {"qty": 0, "location": "Sunlit Plateau"},
+      "Thyme": {"qty": 0, "location": "Glade of Trust"}
+    },
+    "dairy_oil": {
+      "Milk": {"qty": 0, "location": "Chez Remy"},
+      "Butter": {"qty": 0},
+      "Egg": {"qty": 0},
+      "Cheese": {"qty": 0}
+    },
+    "fish": {
+      "Anglerfish": {"qty": 0, "location": "Forgotten Lands"},
+      "Bass": {"qty": 0},
+      "Carp": {"qty": 0}
+    },
+    "flowers": {
+      "Blue Hydrangea": {"qty": 0, "location": "Dazzle Beach"},
+      "Dandelion": {"qty": 0, "location": "Plaza"},
+      "Pink Hydrangea": {"qty": 0, "location": "Dazzle Beach"},
+      "Red Daisy": {"qty": 0, "location": "Peaceful Meadow"},
+      "Sunflower": {"qty": 0, "location": "Dazzle Beach"}
+    },
+    "gems": {
+      "Amethyst": {"qty": 0},
+      "Aquamarine": {"qty": 0},
+      "Diamond": {"qty": 0, "location": "Forgotten Lands"},
+      "Emerald": {"qty": 0},
+      "Ruby": {"qty": 0},
+      "Sapphire": {"qty": 0, "location": "Vitalys Mine"}
+    }
   },
-  "eternity_isle": {
-    "ancient_items": {},
-    "rifts": []
+  "meals": {
+    "Appetizers": {
+      "Cheese Platter": {"qty": 0, "ingredients": ["Cheese"]},
+      "Crudités": {"qty": 0},
+      "Green Salad": {"qty": 0}
+    },
+    "Entrées": {
+      "Grilled Vegetables": {"qty": 0},
+      "Potato Leek Soup": {"qty": 0}
+    },
+    "Desserts": {
+      "Apple Pie": {"qty": 0}
+    }
   },
-  "storybook_vale": {},
-  "wish_blossom": {},
-  "star_path": {
-    "current_rewards": []
+  "refined_materials": {
+    "Brick": {"qty": 0},
+    "Fabric": {"qty": 0},
+    "Glass": {"qty": 0}
+  },
+  "house_storage": {
+    "floors": {}
   }
 }
