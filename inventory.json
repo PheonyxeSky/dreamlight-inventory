@@ -191,12 +191,50 @@
       "Sapphire": {"qty": 0, "location": "Vitalys Mine"}
     }
   },
-  "meals": {
-    "Appetizers": {
-      "Cheese Platter": {"qty": 0, "ingredients": ["Cheese"]},
-      "Crudités": {"qty": 0},
-      "Green Salad": {"qty": 0}
-    },
+ "meals": {
+  "appetizers": [
+    // Base Game Appetizers
+    {"name": "Cheese Platter", "qty": 0, "star_rating": 1, "energy": 482, "sell_price": 216, "ingredients": ["Cheese"], "notes": "Base game, Remy unlock"},
+    {"name": "Crudités", "qty": 0, "star_rating": 1, "energy": 83, "sell_price": 26, "ingredients": ["Any Vegetable"], "notes": "Base game"},
+    {"name": "Green Salad", "qty": 0, "star_rating": 1, "energy": 18, "sell_price": 8, "ingredients": ["Lettuce"], "notes": "Base game"},
+    {"name": "Grilled Veggie Platter", "qty": 0, "star_rating": 2, "energy": 166, "sell_price": 18, "ingredients": ["Any Vegetable", "Any Vegetable"], "notes": "Base game"},
+    {"name": "Hard-Boiled Eggs", "qty": 0, "star_rating": 1, "energy": 635, "sell_price": 275, "ingredients": ["Egg"], "notes": "Base game"},
+    {"name": "Vegetable Soup", "qty": 0, "star_rating": 1, "energy": 83, "sell_price": 9, "ingredients": ["Any Vegetable"], "notes": "Base game"},
+
+    // Eternity Isle (A Rift in Time DLC) Appetizers
+    {"name": "Arepas Con Queso", "qty": 0, "star_rating": 3, "energy": 770, "sell_price": 309, "ingredients": ["Corn", "Cheese", "Agave"], "notes": "Eternity Isle DLC"},
+    {"name": "Baozi", "qty": 0, "star_rating": 4, "energy": 718, "sell_price": 503, "ingredients": ["Pork", "Wheat", "Soya", "Spice"], "notes": "Eternity Isle DLC"},
+    {"name": "Barbecued Brilliant Blue Starfish", "qty": 0, "star_rating": 2, "energy": 3118, "sell_price": 1202, "ingredients": ["Brilliant Blue Starfish", "Any Herb"], "notes": "Eternity Isle DLC"},
+    {"name": "Barbecued Pretty Pink Starfish", "qty": 0, "star_rating": 2, "energy": 2812, "sell_price": 1202, "ingredients": ["Pretty Pink Starfish", "Paprika"], "notes": "Eternity Isle DLC"},
+    {"name": "Bulgur Salad", "qty": 0, "star_rating": 5, "energy": 780, "sell_price": 396, "ingredients": ["Bulgur Wheat", "Tomato", "Cucumber", "Any Herb", "Any Oil"], "notes": "Eternity Isle DLC"},
+    {"name": "Cactus-Topped Salad", "qty": 0, "star_rating": 2, "energy": "high", "sell_price": "medium", "ingredients": ["Cactoberries", "Any Vegetable"], "notes": "Eternity Isle DLC"},
+    {"name": "Vegetarian Dumplings", "qty": 0, "star_rating": 4, "energy": "high", "sell_price": "high", "ingredients": ["Soya", "Wheat", "Any Vegetable"], "notes": "Eternity Isle DLC"},
+    // Add more Eternity Isle ones as needed (there are ~20-30 appetizers total in DLC)
+
+    // Storybook Vale DLC Appetizers
+    {"name": "Ambrosia Smoothie", "qty": 0, "star_rating": 4, "energy": "high", "sell_price": "medium", "ingredients": ["Ambrosia", "Plain Yogurt", "Any Fruit", "Any Dairy"], "notes": "Storybook Vale DLC"},
+    {"name": "Baked Feta & Olives", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Feta Cheese", "Olives", "Any Herb"], "notes": "Storybook Vale DLC"},
+    {"name": "Cape Gooseberry Smoothie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Cape Gooseberry", "Milk", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Faerie Rye Crackers", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Faerie Rye", "Any Grain"], "notes": "Storybook Vale DLC"},
+    {"name": "Golden Apple Smoothie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Golden Apple", "Milk", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Greek Potatoes", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Potato", "Any Herb", "Any Oil"], "notes": "Storybook Vale DLC"},
+    {"name": "Honeydew Smoothie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Honeydew Melon", "Milk", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Lightning Bolt", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Any Fruit", "Any Vegetable"], "notes": "Storybook Vale DLC"},
+    {"name": "Olympian Tapenade", "qty": 0, "star_rating": 4, "energy": "high", "sell_price": "high", "ingredients": ["Olives", "Any Herb", "Any Oil"], "notes": "Storybook Vale DLC"},
+    {"name": "Persimmon Smoothie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Persimmon", "Milk", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Radicchio Slaw", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Radicchio", "Any Vegetable"], "notes": "Storybook Vale DLC"},
+    {"name": "Sauteed Porcini", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Porcini Mushrooms", "Any Herb"], "notes": "Storybook Vale DLC"},
+    {"name": "Simple Chia Pudding", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Chia Seeds", "Milk", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Sparking Ambrosia", "qty": 0, "star_rating": 4, "energy": "high", "sell_price": "high", "ingredients": ["Ambrosia", "Any Fruit", "Any Dairy"], "notes": "Storybook Vale DLC"},
+    {"name": "Spiral Strawberry Smoothie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Spiral Strawberry", "Milk", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Tzatziki", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Cucumber", "Yogurt", "Garlic"], "notes": "Storybook Vale DLC"},
+
+    // Wishblossom Mountains/Ranch DLC Appetizers (examples from guides)
+    {"name": "Button Stew Appetizer Variant", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Button Mushroom", "Carrot"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Jellied Salad", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Jellied Fish", "Scarlet Kale"], "notes": "Wishblossom Ranch DLC"}
+    // Wishblossom adds fewer unique appetizers; more entrees/desserts—expand as needed
+  ]
+},
     "Entrées": {
       "Grilled Vegetables": {"qty": 0},
       "Potato Leek Soup": {"qty": 0}
