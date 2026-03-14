@@ -280,10 +280,56 @@
     // Expand with more like Pixie Pizza, Stargazey Pie, etc.
   ]
 },
-    "Desserts": {
-      "Apple Pie": {"qty": 0}
-    }
-  },
+"desserts": [
+    // Base Game Desserts (examples - many more exist)
+    {"name": "Apple Pie", "qty": 0, "star_rating": 3, "energy": 1137, "sell_price": 303, "ingredients": ["Apple", "Wheat", "Butter"], "notes": "Base game"},
+    {"name": "Apple Sorbet", "qty": 0, "star_rating": 3, "energy": 1077, "sell_price": 271, "ingredients": ["Apple", "Slush Ice", "Sugarcane"], "notes": "Base game"},
+    {"name": "Aurora's Cake", "qty": 0, "star_rating": 5, "energy": 2030, "sell_price": 786, "ingredients": ["Wheat", "Egg", "Sugarcane", "Milk", "Raspberry"], "notes": "Base game, 5-star classic"},
+    {"name": "Banana Ice Cream", "qty": 0, "star_rating": 4, "energy": 1884, "sell_price": 641, "ingredients": ["Banana", "Milk", "Slush Ice", "Sugarcane"], "notes": "Base game"},
+    {"name": "Banana Split", "qty": 0, "star_rating": 5, "energy": 2074, "sell_price": 714, "ingredients": ["Banana", "Milk", "Slush Ice", "Sugarcane", "Any Sweet"], "notes": "Base game, high energy"},
+    {"name": "Beignets", "qty": 0, "star_rating": 4, "energy": 912, "sell_price": 524, "ingredients": ["Canola", "Wheat", "Egg", "Sugarcane"], "notes": "Base game"},
+    {"name": "Birthday Cake", "qty": 0, "star_rating": 5, "energy": 1890, "sell_price": 654, "ingredients": ["Wheat", "Butter", "Sugarcane", "Cocoa Bean", "Egg"], "notes": "Base game"},
+    {"name": "Caramel Apples", "qty": 0, "star_rating": 2, "energy": 638, "sell_price": 56, "ingredients": ["Apple", "Sugarcane"], "notes": "Base game"},
+    {"name": "Cheesecake", "qty": 0, "star_rating": 4, "energy": 1106, "sell_price": 616, "ingredients": ["Cheese", "Wheat", "Sugarcane", "Any Fruit"], "notes": "Base game"},
+    {"name": "Chocolate Chip Cookies", "qty": 0, "star_rating": 3, "energy": 679, "sell_price": 294, "ingredients": ["Wheat", "Butter", "Cocoa Bean", "Sugarcane"], "notes": "Base game"},
+    {"name": "Fruit Salad", "qty": 0, "star_rating": 1, "energy": 450, "sell_price": 25, "ingredients": ["Any Fruit"], "notes": "Base game, simple"},
+
+    // Eternity Isle (Rift in Time) Desserts (examples)
+    {"name": "Apple Sauce", "qty": 0, "star_rating": 1, "energy": 823, "sell_price": 71, "ingredients": ["Apple", "Cinnamon"], "notes": "Eternity Isle DLC"},
+    {"name": "Basil Berry Salad", "qty": 0, "star_rating": 3, "energy": 1355, "sell_price": 142, "ingredients": ["Blueberry", "Strawberry", "Basil"], "notes": "Eternity Isle DLC"},
+    {"name": "Cannoli", "qty": 0, "star_rating": 3, "energy": 1482, "sell_price": 678, "ingredients": ["Wheat", "Cheese", "Egg", "Vanilla"], "notes": "Eternity Isle DLC"},
+    {"name": "Caramel Macarons", "qty": 0, "star_rating": 4, "energy": 1724, "sell_price": 401, "ingredients": ["Almonds", "Agave", "Egg"], "notes": "Eternity Isle DLC"},
+    {"name": "Charlotte Cake", "qty": 0, "star_rating": 3, "energy": 759, "sell_price": 69, "ingredients": ["Strawberry", "Agave", "Wheat"], "notes": "Eternity Isle DLC"},
+    {"name": "Chocolate Macarons", "qty": 0, "star_rating": 4, "energy": 1724, "sell_price": 401, "ingredients": ["Cocoa Bean", "Almonds", "Egg"], "notes": "Eternity Isle DLC"},
+
+    // Storybook Vale Desserts (examples - many themed around fairy tales)
+    {"name": "Aphrodite's Delight", "qty": 0, "star_rating": 2, "energy": 1070, "sell_price": 234, "ingredients": ["Golden Apple", "Ambrosia"], "notes": "Storybook Vale DLC"},
+    {"name": "Cape Gooseberry Sour Fondue", "qty": 0, "star_rating": 2, "energy": 951, "sell_price": 123, "ingredients": ["Cape Gooseberry", "Sour Berries"], "notes": "Storybook Vale DLC"},
+    {"name": "Cinnamon Cake", "qty": 0, "star_rating": 4, "energy": 1330, "sell_price": 348, "ingredients": ["Cinnamon", "Plain Yogurt", "Shovelbird Egg", "Wheat"], "notes": "Storybook Vale DLC"},
+    {"name": "Cinnamon Cookies", "qty": 0, "star_rating": 3, "energy": 1037, "sell_price": 256, "ingredients": ["Cinnamon", "Plain Yogurt", "Wheat", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Golden Apple Pie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Golden Apple", "Wheat", "Shovelbird Egg"], "notes": "Storybook Vale DLC"},
+    {"name": "Honeydew Sour Fondue", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Honeydew", "Sour Berries"], "notes": "Storybook Vale DLC"},
+    {"name": "Lightning Cake", "qty": 0, "star_rating": 4, "energy": "high", "sell_price": "high", "ingredients": ["Lightning Spice", "Wheat", "Shovelbird Egg", "Yogurt"], "notes": "Storybook Vale DLC"},
+    {"name": "Merryweather's Gingersnaps", "qty": 0, "star_rating": 5, "energy": 2596, "sell_price": 443, "ingredients": ["Faerie Rye", "Shovelbird Egg", "Ginger", "Nutmeg", "Sour Berry"], "notes": "Storybook Vale DLC, 5-star"},
+    {"name": "Persimmon Pie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Persimmon", "Wheat"], "notes": "Storybook Vale DLC"},
+    {"name": "Sour Berry Dessert", "qty": 0, "star_rating": 2, "energy": "medium", "sell_price": "low", "ingredients": ["Sour Berries", "Any Sweet"], "notes": "Storybook Vale DLC"},
+    {"name": "Spiral Strawberry Pie", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Spiral Strawberry", "Wheat"], "notes": "Storybook Vale DLC"},
+    {"name": "Unbirthday Cake", "qty": 0, "star_rating": 5, "energy": 2746, "sell_price": 603, "ingredients": ["Faerie Rye", "Shovelbird Egg", "Yogurt", "Nutmeg", "Ambrosia"], "notes": "Storybook Vale DLC, Alice-themed 5-star"},
+    {"name": "Vanilla Yogurt", "qty": 0, "star_rating": 2, "energy": 789, "sell_price": 221, "ingredients": ["Yogurt", "Vanilla"], "notes": "Storybook Vale DLC"},
+
+    // Wishblossom Mountains/Ranch Desserts (examples - often colorful and ranch-themed)
+    {"name": "Beauty and the Beetroot Napoleons", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Beetroot", "Any Grain", "Any Dairy"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Beet Brownie Stack", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Beetroot", "Cocoa Bean", "Wheat"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Beet Sugar Sculpture", "qty": 0, "star_rating": 2, "energy": 223, "sell_price": 51, "ingredients": ["Beetroot", "Sugarcane"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Fairy Boot Cake", "qty": 0, "star_rating": 4, "energy": "high", "sell_price": "medium", "ingredients": ["Fairy Kamut", "Any Sweet", "Any Dairy"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Fairy Bread", "qty": 0, "star_rating": 2, "energy": 360, "sell_price": 243, "ingredients": ["Fairy Kamut", "Fairy Sprinkles"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Fairy Wands", "qty": 0, "star_rating": 3, "energy": "medium", "sell_price": "low", "ingredients": ["Fairy Kamut", "Any Sweet"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Pixie Ice Cream Dome Cake", "qty": 0, "star_rating": 5, "energy": "very high", "sell_price": "high", "ingredients": ["Any Dairy", "Slush Ice", "Any Sweet", "Fairy Kamut"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Red Currant Linzer Cookies", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Red Currant", "Wheat", "Any Sweet"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Red Currant Valley Cakes", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Red Currant", "Any Grain", "Any Dairy"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Tigger Tails", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Pearly Barley", "Any Sweet"], "notes": "Wishblossom Ranch DLC"}
+  ]
+},
 "materials": {
   "Clay": {"qty": 0, "location": "Glade of Trust, Sunlit Plateau, Forgotten Lands, Removing Small Wildebeest Bones and Big Wildebeest Bones", "source": "digging", "sell_price": 20},
   "Cotton": {"qty": 0, "location": "Sunlit Plateau, Goofy's Stall (Cotton Seed only)", "source": "grow/forage", "sell_price": 37},
