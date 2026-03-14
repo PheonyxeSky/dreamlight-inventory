@@ -235,10 +235,51 @@
     // Wishblossom adds fewer unique appetizers; more entrees/desserts—expand as needed
   ]
 },
-    "Entrées": {
-      "Grilled Vegetables": {"qty": 0},
-      "Potato Leek Soup": {"qty": 0}
-    },
+    "entrees": [
+    // Base Game Entrees (examples - many more exist)
+    {"name": "Apple-Cider-Glazed Salmon", "qty": 0, "star_rating": 3, "energy": 1572, "sell_price": 271, "ingredients": ["Apple", "Salmon", "Sugarcane"], "notes": "Base game"},
+    {"name": "Baked Carp", "qty": 0, "star_rating": 2, "energy": 1894, "sell_price": 767, "ingredients": ["Carp", "Butter"], "notes": "Base game"},
+    {"name": "Basil Omelet", "qty": 0, "star_rating": 4, "energy": 2035, "sell_price": 1020, "ingredients": ["Basil", "Egg", "Cheese", "Milk"], "notes": "Base game"},
+    {"name": "Bouillabaisse", "qty": 0, "star_rating": 5, "energy": 2114, "sell_price": 529, "ingredients": ["Any Seafood x2", "Shrimp", "Tomato"], "notes": "Base game, high energy"},
+    {"name": "Carp Salad", "qty": 0, "star_rating": 3, "energy": 2310, "sell_price": 617, "ingredients": ["Carp", "Lemon", "Lettuce"], "notes": "Base game"},
+    {"name": "Cheesy Crispy Baked Cod", "qty": 0, "star_rating": 3, "energy": 840, "sell_price": 303, "ingredients": ["Cod", "Cheese", "Wheat"], "notes": "Base game"},
+    {"name": "Fish Creole", "qty": 0, "star_rating": 5, "energy": 822, "sell_price": 225, "ingredients": ["Any Fish", "Any Vegetable", "Tomato", "Rice"], "notes": "Base game"},
+    {"name": "Lancetfish Paella", "qty": 0, "star_rating": 5, "energy": 4550, "sell_price": 1653, "ingredients": ["Lancetfish", "Tomato", "Shrimp", "Any Seafood"], "notes": "Base game, very high energy"},
+    {"name": "Lobster Roll", "qty": 0, "star_rating": 5, "energy": 4928, "sell_price": 1959, "ingredients": ["Lobster", "Wheat", "Lemon", "Butter", "Any Vegetable"], "notes": "Base game, top seller"},
+    {"name": "Pan-Fried Anglerfish", "qty": 0, "star_rating": 4, "energy": 4194, "sell_price": 2550, "ingredients": ["Anglerfish", "Potato", "Tomato", "Any Vegetable"], "notes": "Base game"},
+    {"name": "Ratatouille", "qty": 0, "star_rating": 5, "energy": 1432, "sell_price": 906, "ingredients": ["Tomato", "Eggplant", "Zucchini", "Any Herb", "Any Vegetable"], "notes": "Base game, iconic"},
+
+    // Eternity Isle (Rift in Time) Entrees (examples - ~60+ added)
+    {"name": "Ajiaco", "qty": 0, "star_rating": 4, "energy": "high", "sell_price": "high", "ingredients": ["Poultry", "Corn", "Potato"], "notes": "Eternity Isle DLC"},
+    {"name": "Best Fish Forever", "qty": 0, "star_rating": 5, "energy": "very high", "sell_price": "high", "ingredients": ["Any Legendary Fish", "Any Seafood", "Any Vegetable", "Any Grain", "Any Dairy"], "notes": "Eternity Isle DLC flex"},
+    {"name": "Blend of the Bayou", "qty": 0, "star_rating": 5, "energy": "very high", "sell_price": 2400, "ingredients": ["Any Legendary Fish", "Any Seafood", "Rice", "Any Vegetable"], "notes": "Eternity Isle DLC, high sell"},
+    {"name": "Greek Salad", "qty": 0, "star_rating": 5, "energy": 1808, "sell_price": 1704, "ingredients": ["Cucumber", "Radish", "Any Vegetable", "Flyleaf Feta", "Olives"], "notes": "Eternity Isle DLC"},
+    {"name": "Grilled Koi Gyro", "qty": 0, "star_rating": 5, "energy": 1444, "sell_price": 525, "ingredients": ["Koi", "Wheat", "Cucumber", "Olives", "Any Spice"], "notes": "Eternity Isle DLC"},
+    {"name": "Hippocampus Cepelinai Dumplings", "qty": 0, "star_rating": 5, "energy": 2634, "sell_price": 925, "ingredients": ["Hippocampus", "Onion", "Potato", "Spiral Strawberry", "Black Pepper"], "notes": "Eternity Isle DLC"},
+    {"name": "Mussel Risotto", "qty": 0, "star_rating": 5, "energy": 1748, "sell_price": 401, "ingredients": ["Mussel", "Rice", "Olives", "Garlic", "Any Spice"], "notes": "Eternity Isle DLC"},
+    // Add more Eternity Isle entrees by copying pattern (wiki has many like Takoyaki, Shad Ceviche, etc.)
+
+    // Storybook Vale Entrees (examples - ~58 added)
+    {"name": "A Very Unusual Tea Time", "qty": 0, "star_rating": 4, "energy": 2377, "sell_price": 345, "ingredients": ["Plain Yogurt", "Spiral Strawberries", "Sour Berries", "Salt Crystal"], "notes": "Storybook Vale DLC"},
+    {"name": "Aquatic Escargot", "qty": 0, "star_rating": 3, "energy": 581, "sell_price": "medium", "ingredients": ["Trumpet Snail", "Garlic", "Salt Crystal"], "notes": "Storybook Vale DLC"},
+    {"name": "Arcane Garlic Crab", "qty": 0, "star_rating": 4, "energy": 3250, "sell_price": "high", "ingredients": ["Sorcerer Hat Hermit Crab", "Garlic", "Salt Crystal", "Any Spice"], "notes": "Storybook Vale DLC"},
+    {"name": "Argossian Pizza", "qty": 0, "star_rating": 5, "energy": 1384, "sell_price": "high", "ingredients": ["Elysian Grain", "Onion", "Flyleaf Feta", "Olives", "Any Vegetable"], "notes": "Storybook Vale DLC"},
+    {"name": "Barley Salad", "qty": 0, "star_rating": 4, "energy": 453, "sell_price": "medium", "ingredients": ["Barley", "Cauliflower", "Radish", "Any Spice"], "notes": "Storybook Vale DLC"},
+    {"name": "Cauliflower Steak", "qty": 0, "star_rating": 1, "energy": 165, "sell_price": 30, "ingredients": ["Cauliflower"], "notes": "Storybook Vale DLC"},
+    {"name": "Grecian Baked Fish", "qty": 0, "star_rating": 5, "energy": 5000, "sell_price": 2800, "ingredients": ["Any Fish", "Any Herb", "Any Oil", "Lemon", "Tomato"], "notes": "Storybook Vale DLC, top energy"},
+    // More like Cacio e Pepe, Chimera Skewer, etc. from Vale—expand as needed
+
+    // Wishblossom Mountains/Ranch Entrees (examples - ~20-30 added)
+    {"name": "Afternoon Tea Set", "qty": 0, "star_rating": 4, "energy": 985, "sell_price": "medium", "ingredients": ["Dark Chocolate Coffee Beans", "Pearly Barley", "Pincushion Peach", "Any Vegetable"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Baked Whitefish & Roasted Beets", "qty": 0, "star_rating": 2, "energy": 900, "sell_price": "medium", "ingredients": ["Beetroot", "Mountain Whitefish"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Beet-iful Spaetzle", "qty": 0, "star_rating": 3, "energy": 778, "sell_price": "medium", "ingredients": ["Beetroot", "Eggs", "Wheat"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Button Stew", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Button Mushroom", "Any Vegetable", "Any Meat"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Horace's Ham Sandwich", "qty": 0, "star_rating": 3, "energy": "medium", "sell_price": "low", "ingredients": ["Pearly Barley", "Cheese", "Any Vegetable"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Jellied Fish Terrine", "qty": 0, "star_rating": 1, "energy": 2450, "sell_price": 1200, "ingredients": ["Jellied Fish"], "notes": "Wishblossom Ranch DLC"},
+    {"name": "Scarlet Kale and Cheese Pinwheels", "qty": 0, "star_rating": 3, "energy": "high", "sell_price": "medium", "ingredients": ["Scarlet Kale", "Cheese", "Any Grain"], "notes": "Wishblossom Ranch DLC"}
+    // Expand with more like Pixie Pizza, Stargazey Pie, etc.
+  ]
+},
     "Desserts": {
       "Apple Pie": {"qty": 0}
     }
