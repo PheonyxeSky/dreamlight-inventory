@@ -263,48 +263,70 @@
     "Zinc": {"qty": 0, "location": "Wild Tangle (Eternity Isle)", "sell_price": 30, "notes": "Eternity Isle DLC"},
     "Marble": {"qty": 0, "location": "Mythopia (Storybook Vale)", "sell_price": 30, "notes": "Storybook Vale DLC"}
   },
-  "gems": {
-    "Amethyst": {"qty": 0, "location": "Forgotten Lands, Frosted Heights", "sell_price": 500, "notes": "Purple square gem"},
-    "Shiny Amethyst": {"qty": 0, "location": "Forgotten Lands, Frosted Heights", "sell_price": 2000, "notes": "Rare shiny variant (4x sell)"},
-    "Aquamarine": {"qty": 0, "location": "Dazzle Beach, Forest of Valor", "sell_price": 250, "notes": "Light blue oval"},
-    "Shiny Aquamarine": {"qty": 0, "location": "Dazzle Beach, Forest of Valor", "sell_price": 1000, "notes": "Shiny variant"},
-    "Citrine": {"qty": 0, "location": "Sunlit Plateau, Glade of Trust", "sell_price": 380, "notes": "Orange oval"},
-    "Shiny Citrine": {"qty": 0, "location": "Sunlit Plateau, Glade of Trust", "sell_price": 1520, "notes": "Shiny variant"},
-    "Diamond": {"qty": 0, "location": "Forgotten Lands", "sell_price": 600, "notes": "Rare diamond"},
-    "Shiny Diamond": {"qty": 0, "location": "Forgotten Lands", "sell_price": 2400, "notes": "Shiny variant"},
-    "Emerald": {"qty": 0, "location": "Various (random gem nodes)", "sell_price": 325, "notes": "Green gem"},
-    "Shiny Emerald": {"qty": 0, "location": "Various", "sell_price": 1300, "notes": "Shiny variant"},
-    "Onyx": {"qty": 0, "location": "Everywhere (random)", "sell_price": 300, "notes": "Black gem, common"},
-    "Ruby": {"qty": 0, "location": "Various", "sell_price": 350, "notes": "Red gem"},
-    "Shiny Ruby": {"qty": 0, "location": "Various", "sell_price": 1400, "notes": "Shiny variant"},
-    "Sapphire": {"qty": 0, "location": "Vitalys Mine", "sell_price": 350, "notes": "Blue gem"},
-    "Shiny Sapphire": {"qty": 0, "location": "Vitalys Mine", "sell_price": 1400, "notes": "Shiny variant"},
-    "Alexandrite": {"qty": 0, "location": "Eternity Isle (The Wastes, The Oasis)", "sell_price": 350, "notes": "Pink/green Eternity Isle gem"},
-    "Shiny Alexandrite": {"qty": 0, "location": "Eternity Isle", "sell_price": 1400, "notes": "Shiny variant"},
-    "Blue Zircon": {"qty": 0, "location": "The Lagoon (Wild Tangle, Eternity Isle)", "sell_price": 500, "notes": "Eternity Isle"},
-    "Shiny Blue Zircon": {"qty": 0, "location": "The Lagoon (Wild Tangle)", "sell_price": 2000, "notes": "Shiny"},
-    "Bumblestone": {"qty": 0, "location": "The Borderlands (Glittering Dunes, Eternity Isle)", "sell_price": 400, "notes": "Eternity Isle"},
-    "Shiny Bumblestone": {"qty": 0, "location": "The Borderlands", "sell_price": 1600, "notes": "Shiny"},
-    "Evergem": {"qty": 0, "location": "The Ruins (Ancient's Landing, Eternity Isle)", "sell_price": 300, "notes": "Eternity Isle"},
-    "Shiny Evergem": {"qty": 0, "location": "The Ruins", "sell_price": 1200, "notes": "Shiny"},
-    "Jade": {"qty": 0, "location": "Various (random)", "sell_price": 250, "notes": "Green gem"},
-    "Shiny Jade": {"qty": 0, "location": "Various", "sell_price": 1000, "notes": "Shiny"},
-    "Spinel": {"qty": 0, "location": "Various", "sell_price": 450, "notes": "Pink/red gem"},
-    "Shiny Spinel": {"qty": 0, "location": "Various", "sell_price": 1800, "notes": "Shiny"},
-    "Opal": {"qty": 0, "location": "The Bind (Storybook Vale)", "sell_price": 300, "notes": "Storybook Vale"},
-    "Shiny Opal": {"qty": 0, "location": "The Bind", "sell_price": 1200, "notes": "Shiny"},
-    "Pure Ice": {"qty": 0, "location": "Everafter (Storybook Vale)", "sell_price": 300, "notes": "Storybook Vale"},
-    "Shiny Pure Ice": {"qty": 0, "location": "Everafter", "sell_price": 1200, "notes": "Shiny"},
-    "Star Sapphire": {"qty": 0, "location": "Everafter (Storybook Vale)", "sell_price": 450, "notes": "Storybook Vale"},
-    "Shiny Star Sapphire": {"qty": 0, "location": "Everafter", "sell_price": 1800, "notes": "Shiny"},
-    "Magma": {"qty": 0, "location": "Mythopia (Storybook Vale)", "sell_price": 400, "notes": "Storybook Vale"},
-    "Shiny Magma": {"qty": 0, "location": "Mythopia", "sell_price": 1600, "notes": "Shiny"},
-    "Honeycomb Stone": {"qty": 0, "location": "Pixie Acres (Wishblossom Mountains)", "sell_price": 550, "notes": "Wishblossom Ranch DLC"},
-    "Shiny Honeycomb Stone": {"qty": 0, "location": "Pixie Acres", "sell_price": 2200, "notes": "Shiny"},
-    "Jasper": {"qty": 0, "location": "Glamour Gulch (Wishblossom Mountains)", "sell_price": 400, "notes": "Wishblossom Ranch DLC"},
-    "Shiny Jasper": {"qty": 0, "location": "Glamour Gulch", "sell_price": 1600, "notes": "Shiny"},
-    "Pyrite": {"qty": 0, "location": "Wishing Alps (Wishblossom Mountains)", "sell_price": 250, "notes": "Wishblossom Ranch DLC"},
-    "Shiny Pyrite": {"qty": 0, "location": "Wishing Alps", "sell_price": 1000, "notes": "Shiny"}
+"gems_and_mining": {
+  "base_valley": {
+    "ores_minerals": {
+      "Stone": {"qty": 0, "location": "All Biomes", "sell_price": 2, "notes": "Basic rock mining, common"},
+      "Coal Ore": {"qty": 0, "location": "All Biomes", "sell_price": 5, "notes": "Common drop from rocks"},
+      "Iron Ore": {"qty": 0, "location": "Forest of Valor, Glade of Trust, Sunlit Plateau, Frosted Heights, Forgotten Lands, Vitalys Mine", "sell_price": 10, "notes": "Common ore"}
+    },
+    "gems": {
+      "Amethyst": {"qty": 0, "location": "Forgotten Lands, Frosted Heights", "sell_price": 500, "notes": "Purple square gem"},
+      "Shiny Amethyst": {"qty": 0, "location": "Forgotten Lands, Frosted Heights", "sell_price": 2000, "notes": "Rare shiny variant (4x sell)"},
+      "Aquamarine": {"qty": 0, "location": "Dazzle Beach, Forest of Valor", "sell_price": 250, "notes": "Light blue oval"},
+      "Shiny Aquamarine": {"qty": 0, "location": "Dazzle Beach, Forest of Valor", "sell_price": 1000, "notes": "Shiny variant"},
+      "Citrine": {"qty": 0, "location": "Sunlit Plateau, Glade of Trust", "sell_price": 380, "notes": "Orange oval"},
+      "Shiny Citrine": {"qty": 0, "location": "Sunlit Plateau, Glade of Trust", "sell_price": 1520, "notes": "Shiny variant"},
+      "Diamond": {"qty": 0, "location": "Forgotten Lands", "sell_price": 600, "notes": "Rare diamond"},
+      "Shiny Diamond": {"qty": 0, "location": "Forgotten Lands", "sell_price": 2400, "notes": "Shiny variant"},
+      "Emerald": {"qty": 0, "location": "Various gem nodes", "sell_price": 325, "notes": "Green gem"},
+      "Shiny Emerald": {"qty": 0, "location": "Various", "sell_price": 1300, "notes": "Shiny variant"},
+      "Onyx": {"qty": 0, "location": "Everywhere (random drops)", "sell_price": 300, "notes": "Black gem, common, no shiny"},
+      "Ruby": {"qty": 0, "location": "Various gem nodes", "sell_price": 350, "notes": "Red gem"},
+      "Shiny Ruby": {"qty": 0, "location": "Various", "sell_price": 1400, "notes": "Shiny variant"},
+      "Sapphire": {"qty": 0, "location": "Vitalys Mine", "sell_price": 350, "notes": "Blue gem"},
+      "Shiny Sapphire": {"qty": 0, "location": "Vitalys Mine", "sell_price": 1400, "notes": "Shiny variant"}
+    }
+  },
+  "eternity_isle": {
+    "ores_minerals": {
+      "Zinc": {"qty": 0, "location": "Wild Tangle", "sell_price": 30, "notes": "Eternity Isle exclusive"}
+    },
+    "gems": {
+      "Alexandrite": {"qty": 0, "location": "The Wastes, The Oasis", "sell_price": 350, "notes": "Pink/green Eternity Isle gem"},
+      "Shiny Alexandrite": {"qty": 0, "location": "The Wastes, The Oasis", "sell_price": 1400, "notes": "Shiny variant"},
+      "Blue Zircon": {"qty": 0, "location": "The Lagoon (Wild Tangle)", "sell_price": 500, "notes": "Eternity Isle"},
+      "Shiny Blue Zircon": {"qty": 0, "location": "The Lagoon (Wild Tangle)", "sell_price": 2000, "notes": "Shiny variant"},
+      "Bumblestone": {"qty": 0, "location": "The Borderlands (Glittering Dunes)", "sell_price": 400, "notes": "Eternity Isle"},
+      "Shiny Bumblestone": {"qty": 0, "location": "The Borderlands (Glittering Dunes)", "sell_price": 1600, "notes": "Shiny variant"},
+      "Evergem": {"qty": 0, "location": "The Ruins (Ancient's Landing)", "sell_price": 300, "notes": "Eternity Isle"},
+      "Shiny Evergem": {"qty": 0, "location": "The Ruins (Ancient's Landing)", "sell_price": 1200, "notes": "Shiny variant"}
+    }
+  },
+  "storybook_vale": {
+    "ores_minerals": {
+      "Marble": {"qty": 0, "location": "Mythopia", "sell_price": 30, "notes": "Storybook Vale exclusive"}
+    },
+    "gems": {
+      "Opal": {"qty": 0, "location": "The Bind", "sell_price": 300, "notes": "Storybook Vale"},
+      "Shiny Opal": {"qty": 0, "location": "The Bind", "sell_price": 1200, "notes": "Shiny variant"},
+      "Pure Ice": {"qty": 0, "location": "Everafter", "sell_price": 300, "notes": "Storybook Vale"},
+      "Shiny Pure Ice": {"qty": 0, "location": "Everafter", "sell_price": 1200, "notes": "Shiny variant"},
+      "Star Sapphire": {"qty": 0, "location": "Everafter", "sell_price": 450, "notes": "Storybook Vale"},
+      "Shiny Star Sapphire": {"qty": 0, "location": "Everafter", "sell_price": 1800, "notes": "Shiny variant"},
+      "Magma": {"qty": 0, "location": "Mythopia", "sell_price": 400, "notes": "Storybook Vale"},
+      "Shiny Magma": {"qty": 0, "location": "Mythopia", "sell_price": 1600, "notes": "Shiny variant"}
+    }
+  },
+  "wishblossom_mountains": {
+    "gems": {
+      "Honeycomb Stone": {"qty": 0, "location": "Pixie Acres", "sell_price": 550, "notes": "Wishblossom Ranch DLC"},
+      "Shiny Honeycomb Stone": {"qty": 0, "location": "Pixie Acres", "sell_price": 2200, "notes": "Shiny variant"},
+      "Jasper": {"qty": 0, "location": "Glamour Gulch", "sell_price": 400, "notes": "Wishblossom Ranch DLC"},
+      "Shiny Jasper": {"qty": 0, "location": "Glamour Gulch", "sell_price": 1600, "notes": "Shiny variant"},
+      "Pyrite": {"qty": 0, "location": "Wishing Alps", "sell_price": 250, "notes": "Wishblossom Ranch DLC"},
+      "Shiny Pyrite": {"qty": 0, "location": "Wishing Alps", "sell_price": 1000, "notes": "Shiny variant"}
+    }
   }
 },
  "meals": {
